@@ -1,4 +1,4 @@
-# 💈 BLACK BEARD – Barbería Arte & Estilo
+# 💈 BLACK BEARD – Barbería
 Sitio web desarrollado como proyecto final para la materia de Programación Web. Representa una barbería ficticia con enfoque en e-commerce, montado y probado en servidor remoto durante su entrega.
 
 --- 
@@ -10,6 +10,7 @@ Sitio web desarrollado como proyecto final para la materia de Programación Web.
 ---
 
 ## 📂 Estructura del proyecto
+```
 Barberia/
 ├── index.html
 ├── estilos/
@@ -21,6 +22,8 @@ Barberia/
 │   ├── productos.html
 │   ├── quienessomos.html
 │   └── ubicacion.html
+
+```
 
 ---
 
@@ -55,15 +58,16 @@ Barberia/
 ## 🚀 ¿Cómo ejecutarlo?
 
 1. Clona o descarga el repositorio.
-   `git clone https://github.com/DanielChagoya/blackbeard.git` 
+   `git clone https://github.com/DanielChagoya/BlackBeard.git` 
 2. Abre `index.html` en tu navegador o usa Live Server desde VS Code.
 
 ---
 
 ## 👨‍💻 Autor
-**Daniel Chagoya** 
-Desarrollador de Software | Ingeniero en Sistemas Computacionales
+**Daniel Chagoya**  
+Desarrollador de Software | Ingeniero en Sistemas Computacionales  
 [LinkedIn](https://www.linkedin.com/in/daniel-chagoya-58638b321/)
+
 
 ---
 
@@ -76,6 +80,6 @@ Desarrollador de Software | Ingeniero en Sistemas Computacionales
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ---
